@@ -1,0 +1,7 @@
+C:\Users\37068\Desktop\Testavimas\LearningDotNet\LearningArrays\LearningArrays\bin\Debug\LearningArrays.exe.config
+C:\Users\37068\Desktop\Testavimas\LearningDotNet\LearningArrays\LearningArrays\bin\Debug\LearningArrays.exe
+C:\Users\37068\Desktop\Testavimas\LearningDotNet\LearningArrays\LearningArrays\bin\Debug\LearningArrays.pdb
+C:\Users\37068\Desktop\Testavimas\LearningDotNet\LearningArrays\LearningArrays\obj\Debug\LearningArrays.csprojAssemblyReference.cache
+C:\Users\37068\Desktop\Testavimas\LearningDotNet\LearningArrays\LearningArrays\obj\Debug\LearningArrays.csproj.CoreCompileInputs.cache
+C:\Users\37068\Desktop\Testavimas\LearningDotNet\LearningArrays\LearningArrays\obj\Debug\LearningArrays.exe
+C:\Users\37068\Desktop\Testavimas\LearningDotNet\LearningArrays\LearningArrays\obj\Debug\LearningArrays.pdb
